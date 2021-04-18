@@ -1,4 +1,5 @@
 # Vizsgafeladat
+(A vizsgafeladatokat Kovács Enikő állíotta össze, köszönet neki érte.)
 
 A feladatok megoldásához az IDEA fejlesztőeszközt használd! 
 Bármely régebbi osztályt megnyithatsz.
