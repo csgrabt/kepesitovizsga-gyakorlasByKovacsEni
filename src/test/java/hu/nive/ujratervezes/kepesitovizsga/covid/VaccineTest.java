@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.kepesitovizsga.covid;
+package hu.nive.ujratervezes.kepesitovizsga.covid;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
@@ -138,4 +138,4 @@ public class VaccineTest {
             stmt.execute(insertRegistration);
         }
     }
-}*/
+}
