@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.kepesitovizsga.dogs;
+/*package hu.nive.ujratervezes.kepesitovizsga.dogs;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -37,4 +37,4 @@ public class DogManagerTest {
         Assertions.assertEquals(2, statistics.get("DENMARK"));
         Assertions.assertEquals(10, statistics.get("RUSSIA"));
     }
-}
+}*/
