@@ -1,14 +1,14 @@
 package hu.nive.ujratervezes.kepesitovizsga.dogs;
 
 public class Dog {
-    private String name;
-    private String Country;
-    private String Url;
+    private final String name;
+    private final String country;
+    private final String url;
 
     public Dog(String name, String country, String url) {
         this.name = name;
-        Country = country;
-        Url = url;
+        this.country = country;
+        this.url = url;
     }
 
 
@@ -17,10 +17,10 @@ public class Dog {
     }
 
     public String getCountry() {
-        return Country;
+        return country;
     }
 
     public String getUrl() {
-        return Url;
+        return url;
     }
 }

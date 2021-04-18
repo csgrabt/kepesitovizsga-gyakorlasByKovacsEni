@@ -3,11 +3,11 @@ package hu.nive.ujratervezes.kepesitovizsga.covid;
 import java.util.Objects;
 
 public class Person {
-    private String name;
-    private int age;
-    private ChronicDisease chronic;
-    private Pregnancy pregnant;
-    private int regNumber;
+    private final String name;
+    private final int age;
+    private final ChronicDisease chronic;
+    private final Pregnancy pregnant;
+    private final int regNumber;
 
     public Person(String name, int age, String chronic, String pregnant, int regNumber) {
         this.name = name;
